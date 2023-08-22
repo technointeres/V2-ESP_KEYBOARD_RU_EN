@@ -1,0 +1,20 @@
+====SPI====
+DC      1
+RST     0
+SCK     4
+MISO    5
+MOSI    6
+====I2C====
+SDA     8
+SCL     9
+====UART====
+RX      20
+TX      21
+====
+RU      3  //BRIGHTNESS
+ENG     10 //BRIGHTNESS
+BL      7  //DISPLAY BRIGHTNESS
+ITR     2  //TOTALLY FREE
+
+
+
